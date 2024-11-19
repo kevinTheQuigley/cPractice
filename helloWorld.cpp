@@ -7,6 +7,6 @@ int main()
     int favouriteNumber;
     std:: cout << "Enter Your fav number:";
     std:: cin >> favouriteNumber;
-    std:: cout << "Amazing! That's my favourite number to." << std::endl;
+    std:: cout << "Amazing! That's my favourite number too." << std::endl;
     return 0;
 }

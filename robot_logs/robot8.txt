@@ -1,0 +1,138 @@
+[2024-11-19 18:13:47] Robot ID: 8 - Position: (1000, 600) - Status: Initialized
+[2024-11-19 18:13:48] Robot ID: 8 - Position: (1000, 1170.16) - Status: Changed direction
+[2024-11-19 18:13:48] Robot ID: 8 - Position: (1032.79, 1170.16) - Status: Changed direction
+[2024-11-19 18:13:50] Robot ID: 8 - Position: (1032.79, 607.698) - Status: Moving
+[2024-11-19 18:13:50] Robot ID: 8 - Position: (1032.79, 599.9) - Status: Changed direction
+[2024-11-19 18:13:50] Robot ID: 8 - Position: (1060.59, 599.9) - Status: Changed direction
+[2024-11-19 18:13:52] Robot ID: 8 - Position: (1060.59, 1170.16) - Status: Changed direction
+[2024-11-19 18:13:52] Robot ID: 8 - Position: (1092.78, 1170.16) - Status: Changed direction
+[2024-11-19 18:13:53] Robot ID: 8 - Position: (1092.78, 859.037) - Status: Moving
+[2024-11-19 18:13:54] Robot ID: 8 - Position: (1092.78, 599.9) - Status: Changed direction
+[2024-11-19 18:13:54] Robot ID: 8 - Position: (1126.47, 599.9) - Status: Changed direction
+[2024-11-19 18:13:56] Robot ID: 8 - Position: (1126.47, 1167.46) - Status: Moving
+[2024-11-19 18:13:56] Robot ID: 8 - Position: (1126.47, 1170.16) - Status: Changed direction
+[2024-11-19 18:13:56] Robot ID: 8 - Position: (1154.86, 1170.16) - Status: Changed direction
+[2024-11-19 18:13:58] Robot ID: 8 - Position: (1154.86, 599.9) - Status: Changed direction
+[2024-11-19 18:13:58] Robot ID: 8 - Position: (1180.36, 599.9) - Status: Changed direction
+[2024-11-19 18:13:59] Robot ID: 8 - Position: (1180.36, 722.87) - Status: Moving
+[2024-11-19 18:14:01] Robot ID: 8 - Position: (1180.36, 1170.16) - Status: Changed direction
+[2024-11-19 18:14:01] Robot ID: 8 - Position: (1208.75, 1170.16) - Status: Changed direction
+[2024-11-19 18:14:02] Robot ID: 8 - Position: (1208.75, 974.109) - Status: Moving
+[2024-11-19 18:14:04] Robot ID: 8 - Position: (1208.75, 599.9) - Status: Changed direction
+[2024-11-19 18:14:04] Robot ID: 8 - Position: (1241.54, 599.9) - Status: Changed direction
+[2024-11-19 18:14:05] Robot ID: 8 - Position: (1241.54, 789.754) - Status: Moving
+[2024-11-19 18:14:07] Robot ID: 8 - Position: (1241.54, 1170.16) - Status: Changed direction
+[2024-11-19 18:14:07] Robot ID: 8 - Position: (1276.63, 1170.16) - Status: Changed direction
+[2024-11-19 18:14:08] Robot ID: 8 - Position: (1276.63, 1028.8) - Status: Moving
+[2024-11-19 18:14:10] Robot ID: 8 - Position: (1276.63, 599.9) - Status: Changed direction
+[2024-11-19 18:14:11] Robot ID: 8 - Position: (1307.32, 599.9) - Status: Changed direction
+[2024-11-19 18:14:11] Robot ID: 8 - Position: (1307.32, 653.187) - Status: Moving
+[2024-11-19 18:14:14] Robot ID: 8 - Position: (1307.32, 1102.48) - Status: Moving
+[2024-11-19 18:14:14] Robot ID: 8 - Position: (1307.32, 1170.16) - Status: Changed direction
+[2024-11-19 18:14:15] Robot ID: 8 - Position: (1336.42, 1170.16) - Status: Changed direction
+[2024-11-19 18:14:17] Robot ID: 8 - Position: (1336.42, 832.343) - Status: Moving
+[2024-11-19 18:14:18] Robot ID: 8 - Position: (1336.42, 599.9) - Status: Changed direction
+[2024-11-19 18:14:19] Robot ID: 8 - Position: (1362.51, 599.9) - Status: Changed direction
+[2024-11-19 18:14:20] Robot ID: 8 - Position: (1362.51, 754.462) - Status: Moving
+[2024-11-19 18:14:23] Robot ID: 8 - Position: (1362.51, 1150.27) - Status: Moving
+[2024-11-19 18:14:23] Robot ID: 8 - Position: (1362.51, 1170.16) - Status: Changed direction
+[2024-11-19 18:14:23] Robot ID: 8 - Position: (1396.2, 1170.16) - Status: Changed direction
+[2024-11-19 18:14:26] Robot ID: 8 - Position: (1396.2, 845.44) - Status: Moving
+[2024-11-19 18:14:28] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:14:29] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:14:32] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:14:35] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:14:38] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:14:41] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:14:44] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:14:47] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:14:50] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:14:53] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:14:56] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:14:59] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:02] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:05] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:08] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:11] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:14] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:17] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:20] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:23] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:26] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:29] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:32] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:35] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:38] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:41] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:44] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:47] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:50] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:53] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:56] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:15:59] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:02] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:05] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:08] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:11] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:14] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:17] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:20] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:23] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:26] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:29] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:32] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:35] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:38] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:41] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:44] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:47] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:50] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:53] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:56] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:16:59] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:02] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:05] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:08] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:11] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:14] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:17] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:20] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:23] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:26] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:29] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:32] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:35] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:38] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:41] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:44] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:47] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:50] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:53] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:56] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:17:59] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:02] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:05] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:08] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:11] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:14] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:17] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:20] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:23] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:26] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:29] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:32] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:35] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:38] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:41] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:44] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:47] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:50] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:53] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:56] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:18:59] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:19:02] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:19:05] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:19:08] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:19:11] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:19:14] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck
+[2024-11-19 18:19:17] Robot ID: 8 - Position: (1396.2, 611.997) - Status: ERROR: Stuck

@@ -1,0 +1,34 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build with cl (64-bit) - exact match",
+            "type": "shell",
+            "command": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/Build/vcvars64.bat",
+            "args": [
+                "&&",
+                "cl",
+                "/EHsc",
+                "/I", "C:/vcpkg/installed/x64-windows/include",  // Include path for SFML headers
+                "${workspaceFolder}/moveRobots.cpp",  // Source file
+                "/Fe:${workspaceFolder}/outDebug.exe",  // Output executable path
+                "/link",
+                "/LIBPATH:C:/vcpkg/installed/x64-windows/lib",  // Library path for SFML
+                "sfml-graphics.lib", "sfml-window.lib", "sfml-system.lib", "sfml-audio.lib", "sfml-network.lib",
+                "-std=c++17" // Specify C++17 standard
+            ],
+            "options": {
+                "shell": {
+                    "executable": "cmd.exe",
+                    "args": ["/c"]
+                }
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$msCompile"],
+            "detail": "Build C++ code with cl.exe (64-bit) and link with SFML"
+        }
+    ]
+}

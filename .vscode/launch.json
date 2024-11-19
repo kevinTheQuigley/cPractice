@@ -1,0 +1,36 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug with MSVC (64-bit)",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/outDebug.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "console": "integratedTerminal",
+      "preLaunchTask": "build with cl (64-bit) - exact match"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/kevin/OneDrive/Documents/CICD_Development/cPractice",
+      "program": "c:/Users/kevin/OneDrive/Documents/CICD_Development/cPractice/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
